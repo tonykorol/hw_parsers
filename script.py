@@ -4,13 +4,7 @@ import json
 from abc import ABC, abstractmethod
 
 
-class AbstractClass(ABC):
-    @abstractmethod
-    def _parse(self):
-        ...
-
-
-class Parser(AbstractClass):
+class BaseParser(ABC):
     session = requests_html.HTMLSession()
 
     def __init__(self, url: str, **kwargs):
@@ -25,8 +19,9 @@ class Parser(AbstractClass):
             return response
         raise RuntimeError(f"Failed status code {response.status_code}")
 
+    @abstractmethod
     def _parse(self):
-        pass
+        ...
 
     def start(self):
         self.result = self._parse()
@@ -36,14 +31,15 @@ class Parser(AbstractClass):
             json.dump(self.result, file, indent=4, ensure_ascii=False)
 
 
-class AvBy(Parser):
-    ITEMS_ROOT = "#__next div.listing > div > div:nth-child(3) > div"
+class AvBy(BaseParser):
+    ITEMS_ROOT = "#__next div.listing > div > div:nth-child(3) > div.listing__items"
 
     def _parse(self):
         num = 1
         result = []
         while True:
             page = self._get_page(num)
+            page.html.render()
             items_box = page.html.find(self.ITEMS_ROOT, first=True)
             if items_box is None:
                 return result
@@ -51,7 +47,7 @@ class AvBy(Parser):
             for item in items:
                 item_data = {}
                 url_box = item.find("div.listing-item__about > h3 > a", first=True)
-                item_data["url"] = url_box.attrs["href"]
+                item_data["url"] = "https://cars.av.by" + url_box.attrs["href"]
                 img_box = item.find("div.listing-item__photo > img", first=True)
                 if img_box is not None:
                     item_data["img"] = img_box.attrs["src"]
@@ -70,7 +66,7 @@ class AvBy(Parser):
             num += 1
 
 
-class RabotaBy(Parser):
+class RabotaBy(BaseParser):
     # div.vacancy-serp-item-body__main-info > div:nth-child(1) > h3 > span > span > a
     # div.vacancy-serp-item-body__main-info .bloko-link
     # div.vacancy-serp-item-body__main-info div.vacancy-serp-item__meta-info-company > a

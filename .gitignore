@@ -160,3 +160,4 @@ cython_debug/
 .idea/
 .vscode/
 app.py
+*_result.json

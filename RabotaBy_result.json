@@ -1,12 +1,5 @@
 [
     {
-        "url": "https://rabota.by/vacancy/95075885?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "ООО Добрая баня",
-        "country": "Минск, Академия наук",
-        "experience": "Опыт от 1 года до 3 лет",
-        "salary": "1500 – 2500 Br"
-    },
-    {
         "url": "https://rabota.by/vacancy/94942248?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
         "company": "Дивид-строй",
         "country": "Минск, Фрунзенская",
@@ -14,16 +7,16 @@
         "salary": "от 1800 Br"
     },
     {
+        "url": "https://rabota.by/vacancy/95075885?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "ООО Добрая баня",
+        "country": "Минск, Академия наук",
+        "experience": "Опыт от 1 года до 3 лет",
+        "salary": "1500 – 2500 Br"
+    },
+    {
         "url": "https://rabota.by/vacancy/94834149?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
         "company": "ООО Голден План",
         "country": "Минск",
-        "experience": "Опыт от 1 года до 3 лет",
-        "salary": "Unknown"
-    },
-    {
-        "url": "https://rabota.by/vacancy/93645517?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "ООО Арт-студия Зробим",
-        "country": "Минск, Немига",
         "experience": "Опыт от 1 года до 3 лет",
         "salary": "Unknown"
     },
@@ -38,6 +31,13 @@
         "url": "https://rabota.by/vacancy/95068162?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
         "company": "ООО Р-ХОУМ",
         "country": "Минск",
+        "experience": "Опыт от 1 года до 3 лет",
+        "salary": "Unknown"
+    },
+    {
+        "url": "https://rabota.by/vacancy/93645517?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "ООО Арт-студия Зробим",
+        "country": "Минск, Немига",
         "experience": "Опыт от 1 года до 3 лет",
         "salary": "Unknown"
     },
@@ -77,11 +77,11 @@
         "salary": "от 4000 Br"
     },
     {
-        "url": "https://rabota.by/vacancy/94009734?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "ООО Соколова Архитектс",
+        "url": "https://rabota.by/vacancy/92882009?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "ООО КЖ-ПРОЕКТ",
         "country": "Минск",
         "experience": "Опыт от 3 до 6 лет",
-        "salary": "400 – 850 $"
+        "salary": "Unknown"
     },
     {
         "url": "https://rabota.by/vacancy/94571218?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
@@ -91,11 +91,11 @@
         "salary": "Unknown"
     },
     {
-        "url": "https://rabota.by/vacancy/92882009?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "ООО КЖ-ПРОЕКТ",
+        "url": "https://rabota.by/vacancy/94009734?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "ООО Соколова Архитектс",
         "country": "Минск",
         "experience": "Опыт от 3 до 6 лет",
-        "salary": "Unknown"
+        "salary": "400 – 850 $"
     },
     {
         "url": "https://rabota.by/vacancy/95140450?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
@@ -112,17 +112,17 @@
         "salary": "Unknown"
     },
     {
-        "url": "https://rabota.by/vacancy/95026221?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "Серволюкс, Группа компаний",
-        "country": "Минск",
-        "experience": "Опыт от 1 года до 3 лет",
-        "salary": "Unknown"
-    },
-    {
         "url": "https://rabota.by/vacancy/95108910?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
         "company": "ООО ТуПлан",
         "country": "Минск",
         "experience": "Опыт от 3 до 6 лет",
+        "salary": "Unknown"
+    },
+    {
+        "url": "https://rabota.by/vacancy/95026221?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "Серволюкс, Группа компаний",
+        "country": "Минск",
+        "experience": "Опыт от 1 года до 3 лет",
         "salary": "Unknown"
     },
     {
@@ -154,13 +154,6 @@
         "salary": "Unknown"
     },
     {
-        "url": "https://rabota.by/vacancy/93625559?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "Представительство ООО ГК Олимпроект (Российская Федерация) в Республике Беларусь",
-        "country": "Минск, Площадь Победы",
-        "experience": "Опыт от 1 года до 3 лет",
-        "salary": "Unknown"
-    },
-    {
         "url": "https://rabota.by/vacancy/93697696?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
         "company": "ООО Белтехнадзор",
         "country": "Минск",
@@ -168,11 +161,11 @@
         "salary": "от 2700 Br"
     },
     {
-        "url": "https://rabota.by/vacancy/94503740?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "Совместн. п. Аркпоинт",
-        "country": "Минск, Купаловская и еще 2",
-        "experience": "Без опыта",
-        "salary": "от 1000 Br"
+        "url": "https://rabota.by/vacancy/93625559?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "Представительство ООО ГК Олимпроект (Российская Федерация) в Республике Беларусь",
+        "country": "Минск, Площадь Победы",
+        "experience": "Опыт от 1 года до 3 лет",
+        "salary": "Unknown"
     },
     {
         "url": "https://rabota.by/vacancy/94109677?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
@@ -182,6 +175,13 @@
         "salary": "от 2300 Br"
     },
     {
+        "url": "https://rabota.by/vacancy/94503740?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "Совместн. п. Аркпоинт",
+        "country": "Минск, Купаловская и еще 2",
+        "experience": "Без опыта",
+        "salary": "от 1000 Br"
+    },
+    {
         "url": "https://rabota.by/vacancy/92757366?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
         "company": "ООО Фармтехнология",
         "country": "Минск",
@@ -189,9 +189,23 @@
         "salary": "Unknown"
     },
     {
+        "url": "https://rabota.by/vacancy/94044376?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "ООО Интехконтрактторг",
+        "country": "Минск",
+        "experience": "Опыт от 1 года до 3 лет",
+        "salary": "Unknown"
+    },
+    {
         "url": "https://rabota.by/vacancy/94378540?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
         "company": "Институт Белгоспроект",
         "country": "Минск",
+        "experience": "Опыт от 3 до 6 лет",
+        "salary": "Unknown"
+    },
+    {
+        "url": "https://rabota.by/vacancy/94050410?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "Государственное Предприятие НИИ Белгипротопгаз",
+        "country": "Минск, Молодежная",
         "experience": "Опыт от 3 до 6 лет",
         "salary": "Unknown"
     },
@@ -203,23 +217,9 @@
         "salary": "Unknown"
     },
     {
-        "url": "https://rabota.by/vacancy/94044376?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "ООО Интехконтрактторг",
-        "country": "Минск",
-        "experience": "Опыт от 1 года до 3 лет",
-        "salary": "Unknown"
-    },
-    {
         "url": "https://rabota.by/vacancy/91551939?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
         "company": "ООО АЙДИСИ ПБ",
         "country": "Минск",
-        "experience": "Опыт от 3 до 6 лет",
-        "salary": "Unknown"
-    },
-    {
-        "url": "https://rabota.by/vacancy/94050410?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "Государственное Предприятие НИИ Белгипротопгаз",
-        "country": "Минск, Молодежная",
         "experience": "Опыт от 3 до 6 лет",
         "salary": "Unknown"
     },
@@ -259,13 +259,6 @@
         "salary": "Unknown"
     },
     {
-        "url": "https://rabota.by/vacancy/93842793?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "ООО Грин Тайм",
-        "country": "Минск",
-        "experience": "Опыт от 3 до 6 лет",
-        "salary": "2500 – 3500 Br"
-    },
-    {
         "url": "https://rabota.by/vacancy/93559790?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
         "company": "ОДО Студия К-проект",
         "country": "Минск",
@@ -278,6 +271,13 @@
         "country": "Минск, Грушевка",
         "experience": "Опыт от 1 года до 3 лет",
         "salary": "3000 – 6000 Br"
+    },
+    {
+        "url": "https://rabota.by/vacancy/93842793?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "ООО Грин Тайм",
+        "country": "Минск",
+        "experience": "Опыт от 3 до 6 лет",
+        "salary": "2500 – 3500 Br"
     },
     {
         "url": "https://rabota.by/vacancy/92691131?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
@@ -301,17 +301,17 @@
         "salary": "Unknown"
     },
     {
-        "url": "https://rabota.by/vacancy/93623757?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "NORMANN architects / ООО НОРМАНН аркитектс",
-        "country": "Минск, Площадь Ленина и еще 3",
+        "url": "https://rabota.by/vacancy/87369980?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "ООО АЙДИСИ ПБ",
+        "country": "Минск",
         "experience": "Опыт от 1 года до 3 лет",
         "salary": "Unknown"
     },
     {
-        "url": "https://rabota.by/vacancy/91211478?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "ООО АЙДИСИ ПБ",
-        "country": "Минск",
-        "experience": "Опыт от 3 до 6 лет",
+        "url": "https://rabota.by/vacancy/93623757?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "NORMANN architects / ООО НОРМАНН аркитектс",
+        "country": "Минск, Площадь Ленина и еще 3",
+        "experience": "Опыт от 1 года до 3 лет",
         "salary": "Unknown"
     },
     {
@@ -322,10 +322,10 @@
         "salary": "Unknown"
     },
     {
-        "url": "https://rabota.by/vacancy/87369980?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "url": "https://rabota.by/vacancy/91211478?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
         "company": "ООО АЙДИСИ ПБ",
         "country": "Минск",
-        "experience": "Опыт от 1 года до 3 лет",
+        "experience": "Опыт от 3 до 6 лет",
         "salary": "Unknown"
     },
     {
@@ -840,17 +840,17 @@
         "salary": "Unknown"
     },
     {
-        "url": "https://rabota.by/vacancy/93940772?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
-        "company": "Andersen",
-        "country": "Минск, Немига",
-        "experience": "Без опыта",
-        "salary": "Unknown"
-    },
-    {
         "url": "https://rabota.by/vacancy/92604279?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
         "company": "ООО ДжазТим",
         "country": "Минск",
         "experience": "Опыт от 3 до 6 лет",
+        "salary": "Unknown"
+    },
+    {
+        "url": "https://rabota.by/vacancy/93940772?query=%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D0%BE%D1%80&hhtmFrom=vacancy_search_list",
+        "company": "Andersen",
+        "country": "Минск, Немига",
+        "experience": "Без опыта",
         "salary": "Unknown"
     },
     {
