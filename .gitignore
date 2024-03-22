@@ -161,5 +161,4 @@ cython_debug/
 .vscode/
 app.py
 
-AvBy_result.json
-RabotaBy_result.json
+*_result.json
